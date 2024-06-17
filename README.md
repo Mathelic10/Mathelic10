@@ -1,4 +1,5 @@
-- Hi, I’m Subhas Dahal
-- I’m a Mathematics, Physics and Computer Science graduate currently working as a Data Scientist
+- Hi, I’m Subhas Dahal with 2 years of experience in Data Science
+- Currently enrolled in a Master Program in Computational and Applied Mathematics at FAU, Erlangen, Germany
+- I’ve a Bachelor degree in Mathematics, Physics and Computer Science
 - Mathematics inclined DS professional with strong Mathematical understanding and Application
 - Let's get to learn more - subhasdh.101@gmail.com
